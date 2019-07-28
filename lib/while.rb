@@ -6,3 +6,4 @@ def using_while
     puts "Wingardium Leviosa"
     current+=1
 end
+end
