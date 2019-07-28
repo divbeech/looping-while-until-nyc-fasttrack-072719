@@ -1,6 +1,7 @@
 def using_until
   levitation_force = 6
   #your code here
-    while levitation_force <10
-      current+=1
+until using_until ==10
+  puts "Wingadrium Leviosa"
+  current +=1
 end
