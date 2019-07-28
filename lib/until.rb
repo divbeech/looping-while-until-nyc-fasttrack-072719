@@ -5,3 +5,4 @@ until using_until ==10
   puts "Wingadrium Leviosa"
   current +=1
 end
+end
